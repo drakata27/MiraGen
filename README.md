@@ -1,2 +1,2 @@
 # MiraGen
-An iOS app that generates random names, numbers, colours and genders!
+An iOS app that generates random names, numbers,and colours!
